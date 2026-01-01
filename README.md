@@ -11,3 +11,13 @@ cd github-practise
 git checkout -b <your-branch-name>
 
 ## Step 4:
+git add .
+
+## Step 5:
+git commit -m "Great Commit!"
+
+## Step 6:
+git push
+
+## Step 7:
+git push --set-upstream origin <your-branch-name>
