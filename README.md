@@ -24,3 +24,5 @@ git push
 ## Step 7:
 git push --set-upstream origin <your-branch-name>
 
+## Step 8:
+git pull origin main
