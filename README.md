@@ -1,6 +1,8 @@
 # github-practise
 Learning GitHub with Team
 
+## Authored By Ayush
+
 ## Step 1: 
 git pull https://github.com/A7ryan/github-practise.git
 
@@ -21,3 +23,4 @@ git push
 
 ## Step 7:
 git push --set-upstream origin <your-branch-name>
+
